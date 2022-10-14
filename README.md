@@ -1,8 +1,10 @@
 # AWS-ETL-Data-Pipeline-in-Python-on-YouTube-Data.
 
 ## Business Problem:
-Many problems exist when deploying or transferring analytics to the cloud. Differences in features between on-premises and cloud data platforms, security, and governance are all technical concerns. The danger of moving on-premises data into the cloud has prompted organizations to limit cloud analytics initiatives, especially in regulated industries where data protection is crucial.
+Consider we have a client or company who wants to run some add campaign online and they selected their main advertising channel as youtube, they wants to undestand some of the initital question they have such as- How to categorize videos based on their comments and stylistics? What are the factors affect how popular a youtube video will be? These are the things theywant to understand before actually investing money in the youtube campaign. Why youtube? Because youtube is the second most visited website in the world.
 
+## Goals & Success Criteria For The Project:
+We have a data ingestion that come from multiple sources then we will design ETL pipeline to easily extract transform & load our data. We will also build data lake so that we can easily organize our data & build a data pipeline around it, that should be scalable. We will be using AWS cloud at the first place, and at the end we will build a dashboard so that we can easily visualize and understand what is happening in the data. 
 
 This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured YouTube videos data based on the video categories and the trending metrics.
 

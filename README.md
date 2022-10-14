@@ -8,8 +8,9 @@ This project aims to securely manage, streamline, and perform analysis on the st
 
 ## 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
 ➔ Languages SQL, Python3
+
 ➔ Services AWS S3, AWS Glue, QuickSight, AWS Lambda, AWS Athena, AWS IAM
 
 
-## Project Data Flow architecture:
+## Data Flow Architecture:
 ![1662701949868](https://user-images.githubusercontent.com/67510391/195756754-74f23b40-c543-4438-958a-312dc1803b4c.jpg)

@@ -7,9 +7,9 @@ Many problems exist when deploying or transferring analytics to the cloud. Diffe
 This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured YouTube videos data based on the video categories and the trending metrics.
 
 ## 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
-➔ ###Languages:### SQL, Python3
+➔ **Languages:** SQL, Python3
 
-➔ ###Services:### AWS S3, AWS Glue, QuickSight, AWS Lambda, AWS Athena, AWS IAM
+➔ **Services:** AWS S3, AWS Glue, QuickSight, AWS Lambda, AWS Athena, AWS IAM
 
 
 ## Data Flow Architecture:

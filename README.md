@@ -14,3 +14,10 @@ This project aims to securely manage, streamline, and perform analysis on the st
 
 ## **DataFlow Architecture :**
 ![1662701949868](https://user-images.githubusercontent.com/67510391/195756754-74f23b40-c543-4438-958a-312dc1803b4c.jpg)
+
+
+## Final Analytics Snippet:
+![Screenshot (90)](https://user-images.githubusercontent.com/67510391/195761563-4095d36f-a7f4-4b1b-b2dc-783ca101db10.png)
+![Screenshot (85)](https://user-images.githubusercontent.com/67510391/195761638-a6dd5d0e-c7d4-4430-a771-df0c8dbdee1b.png)
+
+
